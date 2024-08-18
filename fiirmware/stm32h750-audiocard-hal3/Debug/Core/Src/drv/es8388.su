@@ -1,0 +1,9 @@
+es8388.c:109:6:es8388_set_output_volume	8	static
+es8388.c:117:6:es8388_set_dac_attenuation	8	static
+es8388.c:126:6:es8388_set_dac_gain	8	static
+es8388.c:137:6:es8388_set_output_mixer	8	static
+es8388.c:147:6:es8388_set_pga_gain	24	static
+es8388.c:164:6:es8388_set_pga_gain_both	8	static
+es8388.c:178:6:es8388_set_input	8	static
+es8388.c:182:6:es8388_set_adc_attenuation	8	static
+es8388.c:15:6:es8388_init	24	static

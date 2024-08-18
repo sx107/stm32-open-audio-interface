@@ -1,0 +1,3 @@
+usbd_audio_if.c:148:15:AUDIO_Init_HS	0	static
+usbd_audio_if.c:163:15:AUDIO_DeInit_HS	0	static
+usbd_audio_if.c:178:15:AUDIO_AudioCmd_HS	8	static

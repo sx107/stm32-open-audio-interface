@@ -1,0 +1,2 @@
+i2s_clock.c:13:6:i2sclock_init	0	static
+i2s_clock.c:31:6:i2sclock_select	16	static

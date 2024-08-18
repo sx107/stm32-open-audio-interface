@@ -1,0 +1,17 @@
+usbd_audio.c:400:17:USBD_AUDIO_GetCfgDesc	0	static
+usbd_audio.c:436:16:USBD_AUDIO_EP0_RxReady	8	static
+usbd_audio.c:501:16:USBD_AUDIO_EP0_TxReady	0	static
+usbd_audio.c:838:17:USBD_AUDIO_GetDeviceQualifierDesc	0	static
+usbd_audio.c:596:16:USBD_AUDIO_IsoOutIncomplete	8	static
+usbd_audio.c:578:16:USBD_AUDIO_IsoINIncomplete	8	static
+usbd_audio.c:414:16:USBD_AUDIO_DataIn	8	static
+usbd_audio.c:522:16:USBD_AUDIO_SOF	16	static
+usbd_audio.c:623:16:USBD_AUDIO_DataOut	24	static
+usbd_audio.c:695:13:AUDIO_REQ_GetCurrent	16	static
+usbd_audio.c:742:13:AUDIO_REQ_GetRange	24	static
+usbd_audio.c:724:13:AUDIO_REQ_SetCurrent	8	static
+usbd_audio.c:669:14:USBD_AUDIO_GetAudioHeaderDesc	16	static
+usbd_audio.c:268:16:USBD_AUDIO_Setup	32	static
+usbd_audio.c:238:16:USBD_AUDIO_DeInit	8	static
+usbd_audio.c:185:16:USBD_AUDIO_Init	16	static
+usbd_audio.c:850:9:USBD_AUDIO_RegisterInterface	0	static
